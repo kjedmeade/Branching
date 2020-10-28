@@ -15,10 +15,13 @@
 
  *'git log --oneline' - Show git commit history (compact)
 
- ### Branching Commands'git 'branch'-List branches in current repository
+ ### Branching Commands 'git 'branch'-List branches in current repository
 
  *'git branch someBranch' - create branch 'someBranch'
 
 *'git checkout someBranch' - Move to branch 'someBranch'
 
 * 'git checkout -b otherBranch'- Create and checkout 'otherBranch'
+
+### Remote Commands
+*'git remote add origin URL'- Set remote repo alias 'origin' for github 'URL'
