@@ -17,4 +17,4 @@ Summary of useful 'git' commands.
 * 'git push origin newBranch'- push current git commit to remote
 
 ### Remote Commands
-'git remote add origin URL'- Set remote repo alias 'origin' for github 'URL'
+* 'git remote add origin URL'- Set remote repo alias 'origin' for github 'URL'
